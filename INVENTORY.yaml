@@ -6,7 +6,7 @@ matrix_tier: Tier-4-OS
 ---
 nodes:
   - node_id: NODE-LAPTOP-B
-    role: fleet-infrastructure-onprem
+    role: fleet-infrastructure-leased
     hardware: MacBookPro7,1 (P8600)
     status: ACTIVE (Virtualized Shim)
     docs: [SYS-BOOT-01, PPN-01, SYS-ADR-04]
