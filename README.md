@@ -16,4 +16,4 @@
 | **Knowledge Hub** | `documentation.pointsav.com` | `os-mediakit` + `app-knowledge` |
 
 ---
-*© 2026 PointSav Digital Systems AG.*
+*© 2026 PointSav Digital Systems™.*
