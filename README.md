@@ -22,3 +22,7 @@ To maximize resource efficiency on commercial cloud hardware, we utilize **Sover
 
 ---
 *© 2026 PointSav Digital Systems™.*
+
+> **Directory Nomenclature Ledger**
+> All files committed to this directory MUST adhere to the following strict prefix taxonomy:
+> * `GUIDE-*`: Step-by-step operational deployment manuals.

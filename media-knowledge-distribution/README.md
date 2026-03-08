@@ -1,10 +1,10 @@
-# PointSav Fleet Showcase: media-marketing-landing
+# PointSav Fleet Showcase: media-knowledge-distribution
 ### *Autonomous Edge Node Architecture*
 
 **Status: Generic Showcase** | **Silo: factory-pointsav**
 
 ## 📜 Operational Mandate
-This directory serves as the public structural manifest for the media-marketing-landing node within the PointSav Sovereign Fleet.
+This directory serves as the public structural manifest for the media-knowledge-distribution node within the PointSav Sovereign Fleet.
 
 > **Directory Nomenclature Ledger**
 > All files committed to this directory MUST adhere to the following strict prefix taxonomy:
