@@ -3,7 +3,7 @@
 This directory contains the operational deployment files for the PointSav primary digital interface. It serves as the generic reference implementation of the Sovereign Data Protocol.
 
 ## Operational Guides
-- [➔ GUIDE-01-Telemetry-Operations.md](./GUIDE-01-Telemetry-Operations.md): Sovereign Telemetry Operations & Compliance.
+- [➔ guide-Telemetry-Operations.md](./guide-Telemetry-Operations.md): Sovereign Telemetry Operations & Compliance.
 
 ## Architecture
 - `index.html`: The monolithic, Zero-Cookie, PWA-enabled application interface.

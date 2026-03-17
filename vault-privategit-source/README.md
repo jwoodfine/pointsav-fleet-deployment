@@ -21,7 +21,7 @@ This directory serves as a structural placeholder. It maps directly to the edge 
 ## ⚙️ Execution Playbooks
 This index routes to the physical execution commands required to provision this node.
 
-* [➔ GUIDE-PROVISION-NODE](GUIDE-PROVISION-NODE.md)
+* [➔ guide-PROVISION-NODE](guide-PROVISION-NODE.md)
 
 ---
 *© 2026 PointSav Digital Systems™.*
